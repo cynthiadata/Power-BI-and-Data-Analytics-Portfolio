@@ -1,4 +1,4 @@
-# Power-BI-and-Data-Analytics-Portfolio
+
 # 📊 Power BI & Data Analytics Portfolio
 
 Welcome to my **Power BI & Data Analytics Portfolio**! 🚀 This repository showcases my work in **business intelligence, data visualization, and SQL analysis**. Each project includes **interactive dashboards, SQL queries, and data insights** used to drive decision-making.
