@@ -4,3 +4,4 @@ Unlike the office of the Chief Financial Officer (CFO), a CMO is focused not onl
 Our company, VanArsdel, manufactures expensive electronic products that could be used for fun as well as work and it sells them directly to consumers in three major markets. 
 VanArsdel and its competitors have retained a 3rd party marketing company to collect and anonymize industry sales so that all participants can benchmark themselves.  
 Sales data along with details of Product, Date and Geography are available in an Excel workbook. Data from these sources need to be brought together to analyze and report on.
+Here is the link to view the powerBi file  - https://1drv.ms/u/c/c739265416103fd6/EdOV6Kz2KDBBlO-Mas2coWgBzBFKco-FaK2jvpNzm2xlyA?e=MLKcNC
